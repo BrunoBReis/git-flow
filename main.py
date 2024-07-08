@@ -1,2 +1,2 @@
-def imprimir_nome(nome):
-    return print(nome)
+def soma(a, b):
+    return a + b
