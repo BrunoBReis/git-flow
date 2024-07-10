@@ -1,3 +1,3 @@
-def subtracao(a, b):
-    """ Subtracao """
-    return a - b
+def produto(a, b):
+    """ Produto de dois numeros """
+    return a * b
